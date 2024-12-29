@@ -3,4 +3,4 @@ export const SYSTEM_LOGO = "https://636f-codenav-8grj8px727565176-1256524210.tcb
 /**
  * 知识星球文档地址
  */
-export const PLANET_LINK = "https://docs.qq.com/doc/DUG93dVNHbVZjZXpo";
+export const EDWIN_LINK = "https://edwin-junyu.top";
